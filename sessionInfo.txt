@@ -1,0 +1,40 @@
+R version 3.6.3 (2020-02-29)
+Platform: x86_64-w64-mingw32/x64 (64-bit)
+Running under: Windows 10 x64 (build 19043)
+
+Matrix products: default
+
+locale:
+[1] LC_COLLATE=Italian_Italy.1252  LC_CTYPE=Italian_Italy.1252   
+[3] LC_MONETARY=Italian_Italy.1252 LC_NUMERIC=C                  
+[5] LC_TIME=Italian_Italy.1252    
+
+attached base packages:
+[1] stats     graphics  grDevices utils     datasets  methods   base     
+
+other attached packages:
+ [1] pROC_1.17.0.1       ipred_0.9-9         e1071_1.7-3        
+ [4] MLmetrics_1.1.1     rpart.plot_3.0.9    rpart_4.1-15       
+ [7] randomForest_4.6-14 caret_6.0-86        lattice_0.20-38    
+[10] RQuantLib_0.4.12    lubridate_1.7.10    forcats_0.5.1      
+[13] ggplot2_3.3.3       magrittr_2.0.1      dplyr_1.0.5        
+
+loaded via a namespace (and not attached):
+ [1] zoo_1.8-7            tidyselect_1.1.0     purrr_0.3.4         
+ [4] reshape2_1.4.3       splines_3.6.3        colorspace_1.4-1    
+ [7] vctrs_0.3.7          generics_0.0.2       stats4_3.6.3        
+[10] utf8_1.1.4           survival_3.1-8       prodlim_2019.11.13  
+[13] rlang_0.4.10         ModelMetrics_1.2.2.2 pillar_1.6.0        
+[16] glue_1.3.2           withr_2.4.2          DBI_1.1.0           
+[19] foreach_1.5.0        lifecycle_1.0.0      plyr_1.8.6          
+[22] lava_1.6.7           stringr_1.4.0        timeDate_3043.102   
+[25] munsell_0.5.0        gtable_0.3.0         recipes_0.1.10      
+[28] codetools_0.2-16     labeling_0.3         class_7.3-15        
+[31] fansi_0.4.1          Rcpp_1.0.4.6         scales_1.1.0        
+[34] farver_2.0.3         digest_0.6.25        stringi_1.4.6       
+[37] grid_3.6.3           cli_2.4.0            tools_3.6.3         
+[40] tibble_3.1.1         crayon_1.4.1         pkgconfig_2.0.3     
+[43] MASS_7.3-51.5        ellipsis_0.3.1       Matrix_1.2-18       
+[46] data.table_1.13.0    gower_0.2.2          assertthat_0.2.1    
+[49] rstudioapi_0.13      iterators_1.0.12     R6_2.4.1            
+[52] nnet_7.3-12          nlme_3.1-144         compiler_3.6.3      
