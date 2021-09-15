@@ -1,7 +1,8 @@
 # Digital-Marketing-Project
 
-The project expected contents are the following:
-- The project aims for data-driven strategiesto addressthe problem of retaining high-value
-customers(core).
+The project is actually a simulation of a typical request:
+- analyse the data,
+- exploit the results to define profitable data-driven strategies,
+- present the findingsin order to persuade about their effectiveness.
 
-Nabil  EL Asri, Mario Pedol
+Nabil  EL Asri, Mario Pedol.
